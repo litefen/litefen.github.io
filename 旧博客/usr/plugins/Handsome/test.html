@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+
+
+<script src="http://localhost/build/admin/js/jquery.js?v=17.10.30"></script>
+
+<script type="text/javascript">
+
+    function test() {
+
+        console.log("test");
+    };//定义一全局变量，可省略
+
+    $(document).ready(function(e) {
+
+        function test(){
+
+            alert('test!');
+
+        }
+
+        // test = function test(){
+        //
+        //     alert('test!');
+        //
+        // }
+
+    });
+
+    $(document).ready(function(e) {
+        test(); //现在可以在外部调用了
+
+    });
+
+
+
+
+</script>
+
+<!--<a href='javascript:;' onclick='test();'>点击测试，test();供标签事件调用</a>-->
+
+
+
+</body>
+</html>

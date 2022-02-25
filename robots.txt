@@ -39,7 +39,6 @@ User-agent: psbot
 Disallow: 
 User-agent: *
 Disallow: 
-Disallow: /cv
-Disallow: /hj/
-Sitemap: http://litefen.com/sitemap.xml
-Sitemap: http://litefen.com/sitemap.html
+Disallow: /bin/
+Disallow: /cv/
+Disallow: /mp/

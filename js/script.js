@@ -3,9 +3,9 @@ const main = document.getElementById('main');
 let parts = [];
 
 let images = [
-  "https://tva1.sinaimg.cn/large/006wGabNly1gtvkzt4ikhj32yo1o07wh.jpg",
-  "https://tvax3.sinaimg.cn/large/006wGabNgy1gr3aa30f82j34mo334qvk.jpg",
-  "https://tva2.sinaimg.cn/large/006wGabNgy1gr3ac2onpzj32bc1jk4qq.jpg"
+  "https://pic.imgdb.cn/item/614e188b2ab3f51d91d29098.jpg",
+  "https://pic.imgdb.cn/item/614e15b72ab3f51d91ce4ace.jpg",
+  "https://pic.imgdb.cn/item/5e984579c2a9a83be58455f1.jpg"
 ];
 let current = 0;
 let playing = false;
