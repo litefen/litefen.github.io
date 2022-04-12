@@ -4,8 +4,8 @@ let parts = [];
 
 let images = [
   "https://i0.hdslb.com/bfs/album/e44390f09ad840cdf474eb9d16a3d4f35492d31f.jpg",
-  "https://tvax3.sinaimg.cn/large/006wGabNgy1gr3aa30f82j34mo334qvk.jpg",
-  "https://tva2.sinaimg.cn/large/006wGabNgy1gr3ac2onpzj32bc1jk4qq.jpg"
+  "https://pic.imgdb.cn/item/5e984579c2a9a83be58455f1.jpg",
+  "https://pic.imgdb.cn/item/614e15b72ab3f51d91ce4ace.jpg"
 ];
 let current = 0;
 let playing = false;
