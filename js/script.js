@@ -3,7 +3,7 @@ const main = document.getElementById('main');
 let parts = [];
 
 let images = [
-  "https://tva1.sinaimg.cn/large/006wGabNly1gtvkzt4ikhj32yo1o07wh.jpg",
+  "https://i0.hdslb.com/bfs/album/e44390f09ad840cdf474eb9d16a3d4f35492d31f.jpg",
   "https://tvax3.sinaimg.cn/large/006wGabNgy1gr3aa30f82j34mo334qvk.jpg",
   "https://tva2.sinaimg.cn/large/006wGabNgy1gr3ac2onpzj32bc1jk4qq.jpg"
 ];
