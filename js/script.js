@@ -3,7 +3,7 @@ const main = document.getElementById('main');
 let parts = [];
 
 let images = [
-  "./img/1.jpg",
+  "https://pic.imgdb.cn/item/62556b9f239250f7c5ca3841.jpg",
   "https://pic.imgdb.cn/item/5e984579c2a9a83be58455f1.jpg",
   "https://pic.imgdb.cn/item/614e15b72ab3f51d91ce4ace.jpg"
 ];
